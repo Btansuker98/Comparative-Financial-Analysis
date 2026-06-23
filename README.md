@@ -81,10 +81,6 @@ This project was developed to:
 - Strengthen **financial analysis and controlling skills**
 - Demonstrate ability to build **structured analytical models in Excel**
 - Practice **company comparison using real financial data**
-- Prepare for roles in:
-  - Financial Controlling
-  - FP&A
-  - Business Partnering
 
 
 ---
